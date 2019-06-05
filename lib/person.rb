@@ -1,6 +1,6 @@
 class Person 
   def name 
-    name = ('beyonce')
+    name = ('Beyonce')
   end
   def name=(name)
     @name = name
